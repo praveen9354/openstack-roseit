@@ -31,8 +31,12 @@ git push
 
 git mearge master              #(we can create pull request here )
 ---------------------------------------------------------------------------
+
 if git push not working then do following steps
+
 git init
+
 git config --global user.name <your name>
+
 git config --local user.email <your email>
 -----------------------------------------------------------------------
